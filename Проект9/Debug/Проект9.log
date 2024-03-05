@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Проект9.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\проект9\проект9\myform.h(118): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\проект9\проект9\myform.h(119): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\проект9\проект9\myform.h(157): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  MyForm.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  Проект9.vcxproj -> C:\Users\maksi\OneDrive\Документы\Visual Studio 2012\Projects\Шишкин\Проект9\Debug\Animation.exe
